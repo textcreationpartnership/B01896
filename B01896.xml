@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the clothiers of Gloucester-shire against the aulnagers. Humbly offered to the honourable House of Commons in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01896</idno>
+            <idno type="STC">Wing C1037</idno>
+            <idno type="STC">ESTC R227974</idno>
+            <idno type="EEBO-CITATION">51617891</idno>
+            <idno type="OCLC">ocm 51617891</idno>
+            <idno type="VID">175166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175166)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2718:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the clothiers of Gloucester-shire against the aulnagers. Humbly offered to the honourable House of Commons in Parliament assembled.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date suggested by Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Textile fabrics --  Taxation --  England --  Gloucestershire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175166:1" rendition="simple:additions"/>
+            <head>The CASE OF THE CLOTHIERS OF GLOUCESTER-SHIRE AGAINST THE AULNAGERS, HUMBLY OFFERED To the Honourable HOUSE of COMMONS IN PARLIAMENT <hi>ASSEMBLED.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Aulnagers</hi> have ever ſince about <hi>Chriſtmaſs</hi> was Two Years, demanded of the <hi>Clothiers</hi> 9 <hi>d. per Cloth</hi> for Subſidy and Aulnage of Clothes common<g ref="char:EOLhyphen"/>ly called <hi>Glouceſter-ſhire Whites</hi> and <hi>Reds,</hi> and o<g ref="char:EOLhyphen"/>ther Clothes of the very ſame Dimenſions and Make; for which never more than 6 <hi>d. per Cloth</hi> was till about that time paid, or ſo much as de<g ref="char:EOLhyphen"/>manded: and though the <hi>Clothiers</hi> have conſtantly ever ſince <hi>Chriſtmaſs</hi> was Two Years paid or offer'd to pay 6 <hi>d. per Cloth,</hi> as formerly, yet the <hi>Aulna<g ref="char:EOLhyphen"/>gers</hi> have cauſed great quantities of their Clothes of very great Value, to be ſeized as forfeited, and many times detained them Three or Four Months; and ſometimes they open them, and thereby do them great damage; whereby the <hi>Clothiers</hi> commonly loſe their Sale (the Merchants looking upon the Clothes that are opened, as returned Goods) and this is ge<g ref="char:EOLhyphen"/>nerally
+<pb n="2" facs="tcp:175166:2" rendition="simple:additions"/>done after the uſual Seals are fixed on their Clothes, and the Duty of 6 <hi>d.</hi> paid.</p>
+            <p>The <hi>Aulnagers</hi> (to colour this their Innovation) pretend that about the ſaid <hi>Chriſtmaſs</hi> was Two Years they diſcovered that theſe Clothes were 44 yards long and upwards, and had a Forrel and the Makers Mark in the middle; by which the Clothes are cut, and then they become Two intire Clothes, each of which they ſay by Law ought to pay 4 <hi>d.</hi> Subſidy, and a half-penny <hi>Aul<g ref="char:EOLhyphen"/>nage,</hi> that is 9 <hi>d.</hi> each Cloth; for non-payment whereof they make Seizures as aforeſaid.</p>
+            <p>An Anſwer to which Suggeſtion, firſt as to the Fact, and next as to what the Law is in this Point, will make a full State of the Caſe.</p>
+            <p>Theſe Clothes do contain when Wet generally (and very ſeldom otherwiſe) between 34 and 36 yards in length, and when Strained are between 42 and 44 yards long, and are in breadth when Wet, about 5 quarters and a half, and when Strained are 6 quarters broad; and that the ſaid Forrel has alwayes been uſed to be made croſs the middle of theſe Clothes breadth-wayes, as now it is, and was never known to have been left out; which Forrel is and has always uſed to be made by the Direction and for the Convenience of the Merchants, both for the more commodious preſſing and making up of the Clothes and like<g ref="char:EOLhyphen"/>wiſe, that if they be minded to die one half of a Cloth of one Colour, and the other half of another Colour (as they very frequently do) they may the more conveniently part the ſaid Clothes into halfs; But notwithſtanding the Forrel, yet the Pieces of the length aforeſaid, have been always reputed to make, and do both of them make, but One ſingle, intire Cloth; and have always, till the ſaid <hi>Chriſtmaſs</hi> was Two years, paid 6 <hi>d. per Cloth</hi> as ſuch and no more.</p>
+            <p>And that the <hi>Aulnagers</hi> have but newly diſcovered this Forrel is improbable, one of them having dealt in theſe Clothes ſeveral years himſelf, and the Forrel having been always uſed to be made; And why this Forrel ſhould make them Two Clothes now, when it never did ſo before the ſaid <hi>Chriſtmaſs</hi> was Two years, no reaſon can be given.</p>
+            <p>And that it is not the quantity of theſe Clothes (which has always been about the ſame it now is) but only this Forrel, that can be pretended to countenance this New Incroachment, appears in this, That in <hi>Worceſter-ſhire</hi> there are Clothes made of 40 yards length and upwards, when Wet, and 6 quarters breadth, which becauſe they have no Forrel in the middle, the <hi>Aulnagers</hi> al<g ref="char:EOLhyphen"/>low to be but Single Clothes, and demand but 6 <hi>d. per Cloth</hi> for them, though larger than <hi>Glouceſter-ſhire Whites</hi> and <hi>Reds,</hi> which are but between 34 and 36 yards long, when Wet, and 5 quarters and a half broad, as aforeſaid: ſo that this of it ſelf is a ſufficient Demonſtration, That no more than 6 <hi>d. per Cloth</hi> is due: But beſides, as to the Matter of Law,</p>
+            <p n="1">I. We hope, That theſe Clothes being of different lengths and breadths from what was ever preſcribed for <hi>Glouceſter-ſhire Whites</hi> and <hi>Reds</hi> by any Sta<g ref="char:EOLhyphen"/>tute, will be taken to be New Drapery, for which the Duty is payable by Weight, and not for Statute Clothes: And if ſo, then theſe Clothes being a<g ref="char:EOLhyphen"/>bout 72 <hi>l.</hi> weight a-piece, and 4 <hi>d.</hi> half-penny being the Duty and Subſidy
+<pb n="3" facs="tcp:175166:2"/>for 64 <hi>l.</hi> Weight, 6 <hi>d.</hi> is at that rate above the full Duty. And the Subſidy being payable by Weight, there would be no need of Opening the Clothes after they are made up; and ſo the inconvenience that comes by Opening the Clothes will be prevented.</p>
+            <p n="2">II. Secondly, Admitting the Subſidy for theſe Clothes be not to be paid by Weight, but by Meaſure, yet we inſiſt upon it for Law, That they ought to pay according to Meaſure when they are Wet, and not when they are Strained and Dry: And the Caſe as to this Point ſtands upon the Statute of 4 <hi>Jac.</hi> 1. <hi>&amp;</hi> 2. which appoints the Lengths and Breadths of ſeveral Clothes, and thorow-out the whole Statute ſpeaks of Lengths and Breadths when Wet, and of the Weight only when Dry; and the Meaſure of no Cloth is there mentioned to be taken, when Dry; and particularly <hi>Sect.</hi> 5. does Enact, That <hi>Glouceſter-ſhire Whites</hi> and <hi>Reds</hi> ſhall contain in length, being Wet, between 26 and 28 yards, and in breadth 6 quarters and a half: And then comes <hi>Sect.</hi> 24. of the ſame Statute, and ſays, That foraſmuch as of late it hath been reputed, That a Broad Woollen Cloth ſhould and ought to conſiſt of 24 ſuch Yards and Inches as aforeſaid, and not above; and Payments and other Duties have been ac<g ref="char:EOLhyphen"/>cordingly demanded and paid for the ſame: Be it therefore Enacted, That if any Broad Woollen Cloth be made longer or ſhorter than 24 ſuch ſaid Yards and Inches, all Duties and Payments hereafter to be made for the ſame, ſhall be demanded and made proportionable, according to the Rate and Proporti<g ref="char:EOLhyphen"/>on of 24 ſuch ſaid Yards and Inches for a Whole Cloth, and not otherwiſe. Now if the Meaſure be to be taken when the Clothes are wet, then 6 <hi>d.</hi> would be the full Duty and Subſidy for 32 Yards of the Statute Breadth, that is 6 quar<g ref="char:EOLhyphen"/>ters and a half broad; and more than the full Duty, according to that Rate and Proportion for Clothes that are but 5 quarters and a half broad, though they are between 34 and 36 Yards long when Wet, as the <hi>Glouceſterſhire Whites</hi> and <hi>Reds</hi> are.</p>
+            <p n="3">III. Thirdly, Admitting the Subſidy ought to be paid by Meaſure of the Clothes when Dry and Strained, and not when Wet, (though the Statute is plain for Wet Meaſure) yet Payments being to be made according to the Rate and Proportion of 24 ſuch Yards and Inches as the Statute ſpecifies: And the Statute ſpeaking as to <hi>Glouceſterſhire Whites</hi> and <hi>Reds</hi> of Clothes of the Breadth of 6 quarters and a half when Wet; we think we ought according to that Pro<g ref="char:EOLhyphen"/>portion and Rate, to be allowed a quarter in every Yard, the Clothes Manu<g ref="char:EOLhyphen"/>factur'd by us being when Wet but 5 quarters and a half broad; and ſo pro<g ref="char:EOLhyphen"/>portionably when Dry and Strained.</p>
+            <p>There has been a Special Verdict found in the <hi>Exchequer,</hi> and Judgment upon it, without ever being argued by the <hi>Clothiers Council;</hi> but it is not thereby determined what the <hi>Clothiers</hi> ought to pay: For the Special Verdict finds the particular Clothes, that were then ſeized, to be 44 yards a-piece in length, and that 6 <hi>d.</hi> had been paid for each Cloth; and then concludes ſpeci<g ref="char:EOLhyphen"/>ally, that if the Duty ought by Law to be paid by Weight, Then the Clothes were duly fealed and the Duty paid: But if by Law the Duty be to be paid by Meaſure, Then they find that the Clothes were not duly ſealed, nor the Duty paid. So that the Judgment upon this Verdict does not aſcertain the Du<g ref="char:EOLhyphen"/>ty, but only adjudgeth the Clothes to be forfeited.</p>
+            <pb facs="tcp:175166:3"/>
+            <pb facs="tcp:175166:4" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
